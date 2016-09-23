@@ -4,4 +4,21 @@
   <artifactId>filestore</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
+
+  <name>The FileStore Application</name>
+  <organization>
+    <name>Miage Nancy</name>
+    <url>http://www.miage-nancy.fr</url>
+  </organization>
+
+  <!-- Ajouter ici les membres du projet -->
+  <developers>
+    <developer>
+      <id>jayblanc</id>
+      <name>Maxime BLAISE</name>
+      <email>maxime.blaise@outlook.fr</email>
+      <timezone>Europe/Paris</timezone>
+    </developer>
+  </developers>
+
 </project>
