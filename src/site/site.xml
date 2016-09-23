@@ -17,5 +17,6 @@
     <menu name="Maven 2.0">
       <item name="Introduction" href="intro.html"/>
     </menu>
+    <menu ref="reports"/>
   </body>
 </project>
